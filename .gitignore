@@ -1,0 +1,4 @@
+dss/dss/data/materials/
+venv
+dss/**/migrations/*
+!dss/**/migrations/__init__.py
